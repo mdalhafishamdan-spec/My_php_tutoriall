@@ -4,12 +4,11 @@
 /*
   PHP Tutorial #4 - Variables & Constants
 
-
-  Notes:
-  - Variables are used to store information.
-  - A variable starts with the $ symbol.
-  - The value of a variable can be changed.
-  - Constants are values that cannot be changed.
+Notes:
+- Data and values are kept in memory using variables.
+- Every variable name must begin with a dollar sign ($).
+- The stored data in a variable remains flexible and can be updated later.
+- Once set, constant values stay fixed and cannot be modified throughout execution.
 */
 
 

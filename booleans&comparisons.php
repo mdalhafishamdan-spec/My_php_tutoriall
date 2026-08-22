@@ -5,19 +5,19 @@
     PHP Tutorial #10 - Booleans & Comparisons
 
 
-    Notes:
-    - A boolean has two possible values: true or false.
-    - Comparison operators are used to compare values.
-    - == checks if two values are equal.
-    - != checks if two values are not equal.
-    - > checks if a value is greater than another value.
-    - < checks if a value is less than another value.
-    - >= checks if a value is greater than or equal to another value.
-    - <= checks if a value is less than or equal to another value.
+Notes:
+- Booleans can only hold one of two states: true or false.
+- Values can be evaluated against each other using comparison operators.
+- == tests whether two values match in value.
+- != verifies that two values are different from each other.
+- > determines if the left value is larger than the right value.
+- < determines if the left value is smaller than the right value.
+- >= confirms if a value is either larger than or equal to another.
+- <= confirms if a value is either smaller than or equal to another.
 */
 
 
-// comparisons booleans (true or falze)
+// comparisons booleans (true or false)
 //echo true; "1"
 //echo false; ""
 

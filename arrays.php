@@ -5,11 +5,16 @@
     PHP Tutorial #7 - Arrays
 
 
-    Notes:
-    - An array is used to store multiple values in one variable.
-    - An indexed array uses numbers as indexes.
-    - The first item in an indexed array has index 0.
-    - An associative array uses named keys.
+  
+PHP Tutorial #7 - Arrays
+
+Notes:
+- Arrays allow you to keep several values together inside a single variable.
+- Numerical values serve as keys in an indexed array.
+- Index counting for an indexed array always starts at 0 for the initial element.
+- Named or string-based keys are used to identify values in an associative array.
+
+```
 */
 
 

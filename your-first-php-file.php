@@ -5,11 +5,11 @@
   PHP Tutorial #3 - Your First PHP File
 
 
-  Notes:
-  - PHP files use the .php extension.
-  - PHP code is written inside PHP tags.
-  - PHP code can be written inside an HTML file.
-  - echo is used to output content.
+Notes:
+- Files containing PHP scripts must be saved with a .php file extension.
+- Custom opening and closing tags (<?php ... ?>) enclose all executable PHP statements.
+- Web scripts allow embedding PHP logic directly alongside HTML code.
+- Printing or displaying text to the screen is accomplished using the echo statement.
 */
 
 

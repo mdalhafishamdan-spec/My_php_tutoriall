@@ -4,12 +4,12 @@
 /*
     PHP Tutorial #8 - Multidimensional Arrays
 
+Notes:
+- Arrays nested within other arrays are known as multidimensional arrays.
+- They help organize related information into structured, clustered groups.
+- A single parent array can contain one or more child arrays inside it.
+- Individual elements are retrieved by chaining consecutive index brackets together.
 
-    Notes:
-    - A multidimensional array is an array of arrays.
-    - It can be used to store related data in groups.
-    - We can have arrays inside another array.
-    - We can access values by using multiple indexes.
 */
 
 

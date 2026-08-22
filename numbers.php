@@ -2,18 +2,15 @@
 
 
 /*
-  PHP Tutorial #6 - Numbers
-
-
-  Notes:
-  - PHP can work with numbers.
-  - Integers are whole numbers.
-  - Floats are numbers with decimal points.
-  - We can perform mathematical operations with numbers.
-  - + is used for addition.
-  - - is used for subtraction.
-  - * is used for multiplication.
-  - / is used for division.
+Notes:
+- Numerical data can be easily processed and manipulated in PHP.
+- Whole numbers without any fractional component are known as integers.
+- Decimals and floating-point values are classified as floats.
+- Standard math calculations can be executed directly on numeric values.
+- The + sign performs addition between numbers.
+- The - sign subtracts one numeric value from another.
+- The * symbol multiplies values together.
+- The / symbol divides the first value by the second.
 */
 
 
@@ -23,22 +20,16 @@
 
   // basic operators - *, /, +, -, ^
 
-
   //echo $pi * $radius^2;
-
 
   // order of operation ( B I D M A S)
 
-
   // echo 2 * (4 + 9) / 3;
-
 
   // increment & decrement operators
 
-
   // echo $radius++;
   // echo $radius;
-
 
   // shorthand operators
 
