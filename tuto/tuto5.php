@@ -16,7 +16,7 @@ Notes:
 */
 
   $stringOne = 'my email is';
-  $stringTwo = 'kiki123@gmai.com';
+  $stringTwo = 'kiki@gmai.com';
 
   //echo $stringOne . $stringTwo;
 
